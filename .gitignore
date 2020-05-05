@@ -1,0 +1,6 @@
+*.pyc
+*.pyo
+.installed.cfg
+bin
+airbnb_mtl_venv/
+data_source/
