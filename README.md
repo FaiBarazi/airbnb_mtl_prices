@@ -18,6 +18,9 @@ To start after cloning the repo:
 
 you can either use the dataset that is already in the repo, which is put in the correct path. Else you can run the cell in the jupyter notebook that downloads the dataset from source.
 
+A blog link on the findings can be find here:
+https://medium.com/@fbarazi/a-look-at-airbnb-listings-in-montreal-3c0c5512e380
+
 **Note**:
 I decided not to create a predictive model for this because:
 * Most of the entries are concentrated in 2 major neigbhourhoods, the data is already skewed location wise. 
