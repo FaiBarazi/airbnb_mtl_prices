@@ -1,4 +1,4 @@
-# airbnb_mtl_prices
+# A look at Airbnb listings in Montréal
 
 ## Table of contents
 * Introduction and Motivation
@@ -38,10 +38,18 @@ To start after cloning the repo:
 
 you can either use the dataset that is already in the repo, which is put in the correct path. Else you can run the cell in the jupyter notebook that downloads the dataset from source.
 
+## Findings:
 A blog link on the findings can be find here:
 https://medium.com/@fbarazi/a-look-at-airbnb-listings-in-montreal-3c0c5512e380
 
-## Findings:
 * More than half of the listings in Montréal can be found in 2 neigbhourhoods; Ville Marie and Plateau area.  Looking further on the top 4 neighbourhoods that account for more than 70% of the listings, they are all central in well connected areas by public transport.
 * 70% of the listings are entire homes/apt and around 28% are private rooms.
 * The median price for an Entire home/apt is around 100$ and around 45$ for a private room.
+
+## Aknowledgment:
+The data used in this analysis is the detailed listings data for  Montréal, collected on 20th of April, 2020 is provided at:
+http://insideairbnb.com/get-the-data.html
+Direct link to the listings file:
+http://data.insideairbnb.com/canada/qc/montreal/2020-04-20/data/listings.csv.gz
+
+
